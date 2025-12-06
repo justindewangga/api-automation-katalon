@@ -1,2 +1,1 @@
-# QoinDigital-Test
-Qoin Digital Technical Test
+API Automation - Katalon Studio
